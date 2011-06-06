@@ -4,6 +4,7 @@ from rdflib.graph import Graph
 from rdflib.namespace import Namespace
 from rdflib.term import URIRef, Literal, BNode
 from rdflib.parser import StringInputSource
+import time
 RDF = Namespace("http://www.w3.org/1999/02/22-rdf-syntax-ns#")
 CS = Namespace("http://purl.org/vocab/changeset/schema#")
 
