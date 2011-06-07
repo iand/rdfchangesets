@@ -1,7 +1,7 @@
 from setuptools import setup
 setup(
     name = 'rdfchangesets',
-    version = '1.0.5',
+    version = '1.0.6',
     description = 'A Python library for managing RDF changesets',
     author='Ian Davis',
     author_email='nospam@iandavis.com',
