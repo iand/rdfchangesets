@@ -45,6 +45,8 @@ class ChangeSet(Graph):
     self._add((stmt, RDF.object, obj))
     return stmt
 
+  def getGraph(self):
+    return self
 
 class BatchChangeSet(object):
   def __init__(self):

@@ -20,6 +20,10 @@ Install with easy_install:
     Processing dependencies for rdfchangesets==1.0.0
     Finished processing dependencies for rdfchangesets==1.0.0
 
+If you already have it installed then simply upgrade with:
+
+    >sudo easy_install --upgrade rdfchangesets
+
 Author
 ------
 [Ian Davis](http://iandavis.com/), nospam@iandavis.com
